@@ -1,0 +1,15 @@
+# Arquivos de imagem
+*.jpg
+*.png
+
+# Dados sensíveis
+.env
+config.ini
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
